@@ -67,7 +67,7 @@
   - Ph.D. in Mechanical Engineering
   - Research Focus: Spatiotemporal Trajectory Planning for Autonomous Driving
 
-<img align="right" width="66" src="./assets/images/NTU.jpg" style="margin-right: 9px;" />
+<img align="right" width="66" src="./assets/images/NTU.png" style="margin-right: 9px;" />
 
 - [Nanyang Technological University](https://www.ntu.edu.sg/) &emsp; 📌 Oct 2024 – Present
 
@@ -80,14 +80,6 @@
 
   - Bachelor in Vehicle Engineering
   - Research Focus: Vehicle Dynamics
-
-</td></tr>
-
-<tr><td>
-
-</td></tr>
-
-<tr><td>
 
 </table>
 
@@ -180,17 +172,14 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <!-- 当系统为深色模式时 -->
   <source 
     media="(prefers-color-scheme: dark)" 
     srcset="./profile-3d-contrib/profile-night-rainbow.svg" 
   />
-  <!-- 当系统为浅色模式时 -->
   <source 
     media="(prefers-color-scheme: light)" 
     srcset="./profile-3d-contrib/profile-gitblock.svg" 
   />
-  <!-- 默认回退 -->
   <img 
     src="./profile-3d-contrib/profile-night-rainbow.svg" 
     alt="3D Contribution" 
